@@ -1,7 +1,6 @@
 <h1>Hi, I'm Eren Yokuş!
 
 
-
 ***ME IN A NUTSHELL***
 - I am currently enrolled in a Master's at Nişantaşı University
 - :zap: I love learning things as a part from the classroom but I also have the ability to self-learn
