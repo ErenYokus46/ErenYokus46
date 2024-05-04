@@ -9,16 +9,7 @@
  - :open_hands: I hate restricting myself to a single domain and ***I extend my interest in multiple domains***
  - 😄  I love archery , food and reading comics.
 
-<h2> Tryhackme Accomplishments:</h2>
 
-![image](https://user-images.githubusercontent.com/115635856/195413749-b1f2c599-0fbc-4487-8bb0-08c4a84457f5.png)
-
-Completed Rooms:
-
-![image](https://user-images.githubusercontent.com/115635856/195416063-20583dce-0592-4dcc-b598-0d57fc18963f.png)
-
-
- Feel free to check out my TryHackMe profile! (https://tryhackme.com/p/Eren.Yokus)
 <!--
 
 Here are some ideas to get you started:
