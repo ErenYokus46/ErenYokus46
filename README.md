@@ -1,13 +1,15 @@
-<h1>Hi, I'm Eren!
+<h1>Hi, I'm Eren Yokuş!
 
 
 
 ***ME IN A NUTSHELL***
+- I am currently enrolled in a Master's at Nişantaşı University
 - :zap: I love learning things as a part from the classroom but I also have the ability to self-learn
  - :v: I am ***a positive person*** and I always look forward for new adventures
  - :heart: Technology has always ***motivated*** me to move forward
  - :open_hands: I hate restricting myself to a single domain and ***I extend my interest in multiple domains***
  - 😄  I love archery , food and reading comics.
+ 
 
 
 <!--
